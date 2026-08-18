@@ -1,0 +1,25 @@
+{
+  "invoice": {
+    "number": "2026-0147",
+    "date": "2026-07-10",
+    "total": 1857.60,
+    "terms": "Payment due within 14 days to IBAN EE38 2200 2210 2014 5685. Late payment interest 0.05% per day."
+  },
+  "seller": {
+    "name": "Actual Reports OÜ",
+    "address": "Telliskivi 60a, 10412 Tallinn, Estonia",
+    "email": "billing@actualreports.com",
+    "logo_url": "https://storage.crisp.chat/users/helpdesk/website/11e0e518fc48ce00/300x60_oyj9qj.png"
+  },
+  "buyer": {
+    "name": "Nordic Freight Systems AB",
+    "address": "Hamngatan 12, 111 47 Stockholm, Sweden",
+    "email": "accounts@nordicfreight.se"
+  },
+  "line_items": [
+    {"description": "PDF Generator API — Professional plan, July 2026", "quantity": 1, "unit_price": 599.00, "total": 599.00},
+    {"description": "Additional document volume (10 000 merges)", "quantity": 3, "unit_price": 249.00, "total": 747.00},
+    {"description": "eSignature add-on", "quantity": 1, "unit_price": 199.00, "total": 199.00},
+    {"description": "Onboarding & template setup service", "quantity": 2, "unit_price": 156.30, "total": 312.60}
+  ]
+}
